@@ -224,9 +224,8 @@ python LibraryManagement.py
 
 A screen recording demonstrating the working of the Library Management System is available below.
 
-**▶️ [Watch Project Demo](YOUR_GOOGLE_DRIVE_LINK)**
+**▶️ [Watch Project Demo](https://drive.google.com/file/d/1XlZYDZMY04zaTEVepN47MxcCSNxVXq1t/view?usp=sharing)**
 
-> Replace `YOUR_GOOGLE_DRIVE_LINK` with your Google Drive video link.
 
 ---
 
