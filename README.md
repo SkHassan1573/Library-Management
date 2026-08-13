@@ -23,8 +23,6 @@ The application connects to a local **MongoDB database** and stores book informa
 * 📊 Display total number of books
 * 🧹 Clear input form
 * 📖 Store book details in MongoDB
-* ⚠️ Validation for required fields
-* 🔐 Prevent duplicate Book IDs
 * 🖱️ Select a book from the table to load its details into the form
 
 The application supports book fields including **Book ID, Title, Author, Genre, Year, Copies, and Status**.
